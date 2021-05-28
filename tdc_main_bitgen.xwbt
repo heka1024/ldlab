@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=/csehome/heka1024/lab/lab7/tdc_main.ncd
+OUTFILE=/csehome/heka1024/lab/lab7/tdc_main.bit
+FAMILY=Spartan3A and Spartan3AN
+PART=xc3s50an-4tqg144
+WORKINGDIR=/csehome/heka1024/lab/lab7
+LICENSE=WebPack
+USER_INFO=211016637_0_0_814
